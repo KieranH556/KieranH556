@@ -1,5 +1,8 @@
 # Hi there 👋
-## Welcome to my portfolio
+**Welcome to my portfolio**
+## About Me
+I am currently a Junior at Littleton High School, I play for the district's Ice Hockey team, and I am a Junior Assistant Scoutmaster for my Scout Troop.
+##  
 
 <!--
 **KieranH556/KieranH556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
