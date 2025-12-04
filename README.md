@@ -3,7 +3,7 @@
 ## About Me
 I am currently a Junior at Littleton High School, I play for the district's Ice Hockey team, and I am a Junior Assistant Scoutmaster for my Scout Troop.
 ##  
-
+Below you can find projects I have done for an EPIC Computer Science class.
 <!--
 **KieranH556/KieranH556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
