@@ -1,7 +1,7 @@
 # Hi there 👋
 **Welcome to my portfolio**
 ## About Me
-I am currently a Junior at Littleton High School, I play for the district's Ice Hockey team, and I am a Junior Assistant Scoutmaster for my Scout Troop.
+I am currently a Senior at Littleton High School, I play for the district's Ice Hockey team, and I am a Junior Assistant Scoutmaster for my Scout Troop.
 ##  
 Below you can find projects I have done for an EPIC Computer Science class.
 <!--
